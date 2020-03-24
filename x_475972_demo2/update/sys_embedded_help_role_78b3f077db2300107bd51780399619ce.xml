@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_475972_demo2.mcourses_user" name="x_475972_demo2.mcourses_user">f0b3f077db2300107bd51780399619ca</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-21 06:01:19</sys_created_on>
+        <sys_id>78b3f077db2300107bd51780399619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f0b3f077db2300107bd51780399619ca</sys_name>
+        <sys_package display_value="Demo2" source="x_475972_demo2">24d1ab5bdb2300107bd5178039961997</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo2">24d1ab5bdb2300107bd5178039961997</sys_scope>
+        <sys_update_name>sys_embedded_help_role_78b3f077db2300107bd51780399619ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-21 06:01:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

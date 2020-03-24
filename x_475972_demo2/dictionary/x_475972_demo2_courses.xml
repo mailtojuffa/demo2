@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="courses" max_length="40" name="x_475972_demo2_courses" sizeclass="0" type="collection">
+        <element label="courseid" max_length="40" name="courseid" type="integer"/>
+        <element label="name" max_length="100" name="name" type="string"/>
+    </element>
+</database>

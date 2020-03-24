@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="mcourses" max_length="40" name="x_475972_demo2_mcourses" sizeclass="5" type="collection">
+        <element label="courseid" max_length="40" name="courseid" type="integer"/>
+        <element label="coursename" max_length="100" name="coursename" type="string"/>
+    </element>
+</database>
